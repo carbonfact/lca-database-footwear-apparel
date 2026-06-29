@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: The Open Source LCA Database for Footwear & Apparel
+message: >-
+  If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Vincent
+    family-names: Carrières
+    affiliation: Carbonfact
+  - given-names: Laurent
+    family-names: Vandepaer
+    affiliation: Carbonfact
+  - given-names: Gustavo
+    family-names: Vieira
+    affiliation: Carbonfact
+url: https://github.com/carbonfact/lca-database-footwear-apparel
+repository-code: https://github.com/carbonfact/lca-database-footwear-apparel
+license: CC-BY-SA-4.0
+version: 1.1.0
+date-released: '2026-04-15'
+keywords:
+  - life-cycle-assessment
+  - LCA
+  - textile
+  - environmental-footprint
+  - emission-factors
+  - open-data

@@ -1,0 +1,8 @@
+# CODEOWNERS for lca-database-footwear-apparel
+#
+# These owners will be the default owners for everything in the repo and will
+# be automatically requested for review on pull requests.
+#
+# See: https://docs.github.com/en/repositories/managing-your-repositories-settings-and-customization/customizing-your-repository/about-code-owners
+
+* @lvandepaer
