@@ -11,7 +11,7 @@
 
 ## What is this?
 
-The Open Source LCA Database for Footwear & Apparel is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes data quality ratings.
+The Open Source LCA Database for Footwear & Apparel is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators.
 
 **Looking for emission factors and impact scores?** Jump to the [process table](#whats-included) and click any process to open its `impact-scores.csv`, readable right in your browser. The columns use indicator codes (ACD, GHG, etc.) — see the [Impact indicators](#impact-indicators) table for what each one means. See [Getting the emission factors and impact scores](#getting-the-emission-factors-and-impact-scores) for the steps.
 
