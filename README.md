@@ -5,9 +5,7 @@
 
 **The open-source reference database for textile lifecycle assessment.**
 
-> **Early version.** This is an early release that will continue to evolve, so please check the [changelog](CHANGELOG.md) before re-using results across releases. Several datasets (notably dyeing and wet processing) rely on the [Apparel Impact Institute (Aii) Facility Benchmark](https://apparelimpact.org/) as a key industry data source; updated Aii values are expected before the summer, and we will refresh the affected datasets as they land.
->
-> The full Brightway/Activity Browser inventory files are not published at this stage. We are discussing with our partners the terms under which they can be shared openly.
+> **Early version.** This is an early release that will continue to evolve, so please check the [changelog](CHANGELOG.md) before re-using results across releases. Several datasets (notably dyeing and wet processing) rely on the [Apparel Impact Institute (Aii) Facility Benchmark](https://apparelimpact.org/) as a key industry data source. In early June, Aii published version 1.1 of its Energy and Carbon Benchmark, which updates the dry-process values; we will integrate it over the coming weeks, and it will affect a number of impact scores.
 >
 > If you spot something worth improving or have data to contribute, see the [Contributing](#contributing) section below. We'd love to hear from you.
 
@@ -15,7 +13,7 @@
 
 The Open Source LCA Database for Footwear & Apparel is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators. Every dataset includes data quality ratings.
 
-**Looking for emission factors and impact scores?** Jump to the [process table](#whats-included) and click any process to open its `impact-scores.csv`, readable right in your browser. See [Getting the emission factors and impact scores](#getting-the-emission-factors-and-impact-scores) for the steps.
+**Looking for emission factors and impact scores?** Jump to the [process table](#whats-included) and click any process to open its `impact-scores.csv`, readable right in your browser. The columns use indicator codes (ACD, GHG, etc.) — see the [Impact indicators](#impact-indicators) table for what each one means. See [Getting the emission factors and impact scores](#getting-the-emission-factors-and-impact-scores) for the steps.
 
 ## Methodological alignment
 
@@ -76,7 +74,7 @@ Each process directory contains its results file:
 |------|-------------|
 | `impact-scores.csv` | Emission factors (LCIA results) across all 16 EF 3.1 impact indicators, plus Data Quality Rating (DQR) scores for each dataset. Where available, includes an **Input required (kg)** column, the kg of input material needed to produce 1 kg of output (e.g. 1.18 means 1.18 kg of input per 1 kg of output). See [Handling material losses](#handling-material-losses) for how to apply it. This is the primary results file. |
 
-> **Full inventories.** The detailed Brightway/Activity Browser inventory files are not currently published in this repository. We are discussing with our partners the terms under which the full inventories can be shared openly; in the meantime, the impact scores above remain openly available, and the key foreground parameters are described in each process's methodology documentation.
+> **Full inventories.** The detailed Brightway/Activity Browser inventory files are not currently published in this repository. The impact scores above remain openly available, and the key foreground parameters are described in each process's methodology documentation.
 
 ### Handling material losses
 
@@ -140,7 +138,7 @@ Cross-cutting methodology docs (applicable to all processes):
 
 If you want to **use the emission factors or pre-calculated impact scores**, these are shared openly in this repository. The `impact-scores.csv` file in each process directory gives you ready-to-use results.
 
-The lifecycle inventories behind these results are built on top of **ecoinvent 3.12** as the background database. The full inventory files are not currently distributed in this repository while we finalise sharing terms with our partners. Running the full inventories in LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA) requires a valid [ecoinvent license](https://ecoinvent.org/offerings/).
+The lifecycle inventories behind these results are built on top of **ecoinvent 3.12** as the background database. The full inventory files are not currently distributed in this repository. Running the full inventories in LCA software (e.g. Brightway, Activity Browser, SimaPro, openLCA) requires a valid [ecoinvent license](https://ecoinvent.org/offerings/).
 
 ## Versioning & changelog
 
