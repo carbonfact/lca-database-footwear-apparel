@@ -194,14 +194,14 @@ If you use this database in your work, please cite it via its DOI:
 
 Suggested citation:
 
-> Carrières, V., Vandepaer, L., & Vieira, G. (2026). *The Open Source LCA Database for Footwear & Apparel* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21102755
+> Carrières, V., Vieira, G., & Vandepaer, L. (2026). *The Open Source LCA Database for Footwear & Apparel* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21102755
 
 Or in BibTeX:
 
 ```bibtex
 @dataset{carbonfact_lca_footwear_apparel_2026,
   title     = {The Open Source LCA Database for Footwear \& Apparel},
-  author    = {Carrières, Vincent and Vandepaer, Laurent and Vieira, Gustavo},
+  author    = {Carrières, Vincent and Vieira, Gustavo and Vandepaer, Laurent},
   year      = {2026},
   version   = {1.1.0},
   doi       = {10.5281/zenodo.21102755},
