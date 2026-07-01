@@ -188,9 +188,15 @@ For companies that need different attribution terms or cannot comply with the Sh
 
 ## Citation
 
-If you use this database in your work, please cite it as:
+If you use this database in your work, please cite it via its DOI:
 
-> GitHub's **"Cite this repository"** button (top right of the repo page) generates ready-to-use APA and BibTeX automatically from [`CITATION.cff`](CITATION.cff).
+**DOI: [10.5281/zenodo.21102755](https://doi.org/10.5281/zenodo.21102755)** — this concept DOI always resolves to the latest release; each release also has its own version DOI on Zenodo.
+
+Suggested citation:
+
+> Carrières, V., Vandepaer, L., & Vieira, G. (2026). *The Open Source LCA Database for Footwear & Apparel* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21102755
+
+Or in BibTeX:
 
 ```bibtex
 @dataset{carbonfact_lca_footwear_apparel_2026,
@@ -203,6 +209,8 @@ If you use this database in your work, please cite it as:
   license   = {CC-BY-SA-4.0}
 }
 ```
+
+GitHub's **"Cite this repository"** button (top right of the repo page) also generates ready-to-use APA and BibTeX automatically from [`CITATION.cff`](CITATION.cff).
 
 ## Quick start (Python)
 
