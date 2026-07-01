@@ -7,11 +7,11 @@ authors:
   - given-names: Vincent
     family-names: Carrières
     affiliation: Carbonfact
-  - given-names: Laurent
-    family-names: Vandepaer
-    affiliation: Carbonfact
   - given-names: Gustavo
     family-names: Vieira
+    affiliation: Carbonfact
+  - given-names: Laurent
+    family-names: Vandepaer
     affiliation: Carbonfact
 url: https://github.com/carbonfact/lca-database-footwear-apparel
 repository-code: https://github.com/carbonfact/lca-database-footwear-apparel
