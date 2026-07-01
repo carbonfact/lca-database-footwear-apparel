@@ -21,7 +21,8 @@ jobs:
       - name: Build source archive
         run: |
           set -euo pipefail
-          VERSION="${GITHUB_REF_NAME#v}"
+          # Accept v1.1.0, v.1.1.0 or 1.1.0 -> 1.1.0
+          VERSION="$(printf '%s' "${GITHUB_REF_NAME}" | sed -E 's/^v\.?//')"
           NAME="lca-database-footwear-apparel-${VERSION}"
           git archive --format=zip --prefix="${NAME}/" HEAD -o "${NAME}.zip"
           echo "ARCHIVE=${NAME}.zip" >> "$GITHUB_ENV"

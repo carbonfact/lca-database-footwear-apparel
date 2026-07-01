@@ -2,6 +2,7 @@
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](CHANGELOG.md)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21102755.svg)](https://doi.org/10.5281/zenodo.21102755)
 
 **The open-source reference database for textile lifecycle assessment.**
 
@@ -197,6 +198,7 @@ If you use this database in your work, please cite it as:
   author    = {Carrières, Vincent and Vandepaer, Laurent and Vieira, Gustavo},
   year      = {2026},
   version   = {1.1.0},
+  doi       = {10.5281/zenodo.21102755},
   url       = {https://github.com/carbonfact/lca-database-footwear-apparel},
   license   = {CC-BY-SA-4.0}
 }
