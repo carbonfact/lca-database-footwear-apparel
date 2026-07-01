@@ -1,0 +1,34 @@
+name: Archive release on Zenodo
+
+# When a GitHub Release is published, archive the tagged snapshot on Zenodo and
+# mint/refresh the DOI. Authentication is a Zenodo API token (repo secret
+# ZENODO_TOKEN) — Zenodo is granted NO access to GitHub.
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:      # allow manual runs from the Actions tab
+
+permissions:
+  contents: read
+
+jobs:
+  zenodo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build source archive
+        run: |
+          set -euo pipefail
+          VERSION="${GITHUB_REF_NAME#v}"
+          NAME="lca-database-footwear-apparel-${VERSION}"
+          git archive --format=zip --prefix="${NAME}/" HEAD -o "${NAME}.zip"
+          echo "ARCHIVE=${NAME}.zip" >> "$GITHUB_ENV"
+          echo "VERSION=${VERSION}" >> "$GITHUB_ENV"
+
+      - name: Deposit on Zenodo
+        env:
+          ZENODO_TOKEN: ${{ secrets.ZENODO_TOKEN }}
+          ZENODO_CONCEPT_RECID: ${{ vars.ZENODO_CONCEPT_RECID }}
+        run: python3 .github/scripts/zenodo_upload.py
