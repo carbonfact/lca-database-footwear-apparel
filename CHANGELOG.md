@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the Open Source LCA Database for Footwear & Apparel will be documented in this file.
+All notable changes to the Carbonfact Open Source LCA Database for Footwear & Apparel will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
@@ -41,7 +41,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Initial release of the Open Source LCA Database for Footwear & Apparel
+- Initial release of the Carbonfact Open Source LCA Database for Footwear & Apparel
 - 230 datasets across 4 textile processes:
   - Spinning: 159 datasets (Ring spun, Melt spinning, Open end rotor)
   - Knitting: 13 datasets (Flat, Circular, Seamless, Hosiery, 3D)
