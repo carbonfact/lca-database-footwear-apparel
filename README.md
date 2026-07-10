@@ -176,7 +176,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
   We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
 
-  On **public webpages**, the attribution must include a working hyperlink to this repository — a plain-text mention is not sufficient where linking is possible. A link back to [carbonfact.com](https://www.carbonfact.com) is appreciated as well.
+  On **public webpages**, the attribution must include a working hyperlink to this repository — a plain-text mention is not sufficient where linking is possible. A link back to the database page on our site, [carbonfact.com/database](https://www.carbonfact.com/database), is appreciated as well.
 
 - **ShareAlike**: if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
 
