@@ -192,7 +192,7 @@ If you build the database into a software product, platform, or service that dis
 - **Indicate modifications** if you have adapted or recalculated the values, so your version is not mistaken for ours.
 - **Share modifications alike**: any adapted or recalculated version of the data you distribute — including serving it to your customers through your product — must be released under CC BY-SA 4.0 (or a compatible license), per the [ShareAlike](#what-you-must-do) condition. Improvements stay open for the community.
 
-We'd also love to know how the database is being used — reach us at science@carbonfact.com.
+We'd also love to hear which brands and organizations use the database to evaluate their impact, and at what scale — even just a total footprint measured with it (e.g. tonnes of CO₂e assessed per year). Knowing who relies on the data is what justifies the ongoing work and maintenance that keep it accurate and free. Reach us at science@carbonfact.com.
 
 ### Commercial licensing
 
