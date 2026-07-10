@@ -192,7 +192,7 @@ If you build the database into a software product, platform, or service that dis
 - **Indicate modifications** if you have adapted or recalculated the values, so your version is not mistaken for ours.
 - **Share modifications alike**: any adapted or recalculated version of the data you distribute — including serving it to your customers through your product — must be released under CC BY-SA 4.0 (or a compatible license), per the [ShareAlike](#what-you-must-do) condition. Improvements stay open for the community.
 
-We'd also love to know how the database is being used — telling us is entirely optional and not a condition of the license. Reach us at science@carbonfact.com.
+We'd also love to know how the database is being used — reach us at science@carbonfact.com.
 
 ### Commercial licensing
 
