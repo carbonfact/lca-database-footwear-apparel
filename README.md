@@ -182,6 +182,17 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 - **Add restrictions**: you may not apply legal terms or technological measures that restrict others from doing anything the license permits.
 
+### If you integrate this database into a product or platform
+
+If you build the database into a software product, platform, or service that displays emission factors or impact scores to your users, you must:
+
+- **Display the attribution on the same page or screen** where values derived from this database are shown — not only in documentation or settings.
+- **Retain the license and attribution notice** in any data you deliver to your customers, so they know the terms that apply.
+- **Inform your customers** that if they republish these values (for example in a sustainability report or public disclosure), the same attribution requirement applies to them. Citing the database DOI (see [Citation](#citation)) is the expected form.
+- **Indicate modifications** if you have adapted or recalculated the values, so your version is not mistaken for ours.
+
+We'd also love to know how the database is being used — telling us is entirely optional and not a condition of the license. Reach us at science@carbonfact.com.
+
 ### Commercial licensing
 
 For companies that need different attribution terms or cannot comply with the ShareAlike requirement, a separate commercial license is available. Contact us at science@carbonfact.com.
