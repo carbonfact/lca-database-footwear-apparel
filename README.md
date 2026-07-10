@@ -174,7 +174,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
   > Data source: [The Carbonfact Open Source LCA Database for Footwear & Apparel](https://github.com/carbonfact/lca-database-footwear-apparel), CC BY-SA 4.0
 
-  We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
+  You must display this attribution on the same page or screen where emission factors or impact scores derived from this database are shown — not buried in a bibliography or appendix.
 
   On **public webpages**, the attribution must include working hyperlinks to this repository and to the database page on our site, [carbonfact.com/database](https://www.carbonfact.com/database) — a plain-text mention is not sufficient where linking is possible.
 
