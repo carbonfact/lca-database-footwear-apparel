@@ -176,7 +176,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
   We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
 
-  On **public webpages**, the attribution must include a working hyperlink to this repository — a plain-text mention is not sufficient where linking is possible. A link back to the database page on our site, [carbonfact.com/database](https://www.carbonfact.com/database), is appreciated as well.
+  On **public webpages**, the attribution must include working hyperlinks to this repository and to the database page on our site, [carbonfact.com/database](https://www.carbonfact.com/database) — a plain-text mention is not sufficient where linking is possible.
 
 - **ShareAlike**: if you modify or improve the datasets and distribute your version, you must release it under the same CC BY-SA 4.0 license (or a compatible one). This ensures improvements stay open for the community.
 
@@ -188,7 +188,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 If you build the database into a software product, platform, or service that displays emission factors or impact scores to your users, you must:
 
-- **Display the attribution on the same page or screen** where values derived from this database are shown — not only in documentation or settings.
+- **Display the attribution on the same page or screen** where values derived from this database are shown — not only in documentation or settings. Where your interface supports hyperlinks, the attribution must link to this repository and to [carbonfact.com/database](https://www.carbonfact.com/database).
 - **Retain the license and attribution notice** in any data you deliver to your customers, so they know the terms that apply.
 - **Inform your customers** that if they republish these values (for example in a sustainability report or public disclosure), the same attribution requirement applies to them. Citing the database DOI (see [Citation](#citation)) is the expected form.
 - **Indicate modifications** if you have adapted or recalculated the values, so your version is not mistaken for ours.
