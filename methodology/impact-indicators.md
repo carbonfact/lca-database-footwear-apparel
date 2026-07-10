@@ -1,6 +1,6 @@
 # Impact Indicators
 
-All datasets in the Open Source LCA Database for Footwear & Apparel report results for the 16 impact indicators defined in the **Environmental Footprint (EF) 3.1** method, as recommended by the European Commission for Product Environmental Footprint (PEF) studies.
+All datasets in the Carbonfact Open Source LCA Database for Footwear & Apparel report results for the 16 impact indicators defined in the **Environmental Footprint (EF) 3.1** method, as recommended by the European Commission for Product Environmental Footprint (PEF) studies.
 
 ## Indicator table
 

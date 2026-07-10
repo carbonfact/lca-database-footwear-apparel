@@ -1,6 +1,6 @@
 # Sneaker Shoe Assembly Methodology
 
-Methodological specifications for the sneaker shoe assembly inventory model in the Open Source LCA Database for Footwear & Apparel.
+Methodological specifications for the sneaker shoe assembly inventory model in the Carbonfact Open Source LCA Database for Footwear & Apparel.
 
 | Technology | PDF | Description |
 |---|---|---|

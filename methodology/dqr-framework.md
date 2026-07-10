@@ -1,6 +1,6 @@
 # Data Quality Rating (DQR) Framework
 
-This document describes the Data Quality Rating (DQR) methodology applied to all process datasets in the Open Source LCA Database for Footwear & Apparel. The approach follows the **Product Environmental Footprint (PEF)** guidance for data quality assessment.
+This document describes the Data Quality Rating (DQR) methodology applied to all process datasets in the Carbonfact Open Source LCA Database for Footwear & Apparel. The approach follows the **Product Environmental Footprint (PEF)** guidance for data quality assessment.
 
 ## Method
 

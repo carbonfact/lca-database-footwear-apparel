@@ -1,6 +1,6 @@
 # Roadmap
 
-This document tracks planned improvements to the Open Source LCA Database for Footwear & Apparel beyond new datasets. The list of upcoming process datasets lives in the [README](README.md#whats-included). Items below are grouped by theme, not prioritized. See [CHANGELOG.md](CHANGELOG.md) for what has already shipped.
+This document tracks planned improvements to the Carbonfact Open Source LCA Database for Footwear & Apparel beyond new datasets. The list of upcoming process datasets lives in the [README](README.md#whats-included). Items below are grouped by theme, not prioritized. See [CHANGELOG.md](CHANGELOG.md) for what has already shipped.
 
 If you'd like to help with any of these, or think something is missing, open an [issue](https://github.com/carbonfact/lca-database-footwear-apparel/issues) or [discussion](https://github.com/carbonfact/lca-database-footwear-apparel/discussions).
 

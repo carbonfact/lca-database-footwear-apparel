@@ -1,6 +1,6 @@
 # Spinning Methodology
 
-Methodological specifications for the spinning inventory models in the Open Source LCA Database for Footwear & Apparel. Each technology folder contains a downloadable PDF with the full methodology, plus markdown reference files.
+Methodological specifications for the spinning inventory models in the Carbonfact Open Source LCA Database for Footwear & Apparel. Each technology folder contains a downloadable PDF with the full methodology, plus markdown reference files.
 
 | Technology | PDF | Description |
 |---|---|---|

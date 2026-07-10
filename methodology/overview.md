@@ -2,7 +2,7 @@
 
 ## General approach
 
-The Open Source LCA Database for Footwear & Apparel follows a **gate-to-gate** modelling approach for each textile manufacturing process. Datasets represent the environmental impact of transforming an input material (yarn, greige fabric, etc.) into an output product (yarn, fabric, dyed textile) at the factory gate.
+The Carbonfact Open Source LCA Database for Footwear & Apparel follows a **gate-to-gate** modelling approach for each textile manufacturing process. Datasets represent the environmental impact of transforming an input material (yarn, greige fabric, etc.) into an output product (yarn, fabric, dyed textile) at the factory gate.
 
 Each process is modelled as a standalone foreground unit process, linked to the ecoinvent 3.12 background database for upstream inputs (electricity, heat, chemicals, water, waste treatment) and characterised using the **Environmental Footprint (EF) 3.1** method across 16 impact indicators.
 

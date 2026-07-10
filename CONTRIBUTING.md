@@ -1,4 +1,4 @@
-# Contributing to the Open Source LCA Database for Footwear & Apparel
+# Contributing to the Carbonfact Open Source LCA Database for Footwear & Apparel
 
 Thank you for your interest in improving textile LCA data. This database is in **soft release**: we're actively collecting feedback from the community, and every form of contribution — from typo fixes to full dataset submissions to sharing primary supplier data — is valuable.
 

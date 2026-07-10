@@ -1,10 +1,10 @@
-# The Open Source LCA Database for Footwear & Apparel
+# The Carbonfact Open Source LCA Database for Footwear & Apparel
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](CHANGELOG.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21102755.svg)](https://doi.org/10.5281/zenodo.21102755)
 
-**The open-source reference database for textile lifecycle assessment.**
+**Carbonfact's open-source reference database for textile lifecycle assessment.**
 
 > **Early version.** This is an early release that will continue to evolve, so please check the [changelog](CHANGELOG.md) before re-using results across releases. Several datasets (notably dyeing and wet processing) rely on the [Apparel Impact Institute (Aii) Facility Benchmark](https://apparelimpact.org/) as a key industry data source. In early June, Aii published version 1.1 of its Energy and Carbon Benchmark, which updates the dry-process values; we will integrate it over the coming weeks, and it will affect a number of impact scores.
 >
@@ -12,7 +12,7 @@
 
 ## What is this?
 
-The Open Source LCA Database for Footwear & Apparel is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators.
+The Carbonfact Open Source LCA Database for Footwear & Apparel is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators.
 
 **Looking for emission factors and impact scores?** Jump to the [process table](#whats-included) and click any process to open its `impact-scores.csv`, readable right in your browser. The columns use indicator codes (ACD, GHG, etc.) — see the [Impact indicators](#impact-indicators) table for what each one means. See [Getting the emission factors and impact scores](#getting-the-emission-factors-and-impact-scores) for the steps.
 
@@ -172,7 +172,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 - **Give credit**: You must include the following attribution when sharing or using the data:
 
-  > Data source: [The Open Source LCA Database for Footwear & Apparel](https://github.com/carbonfact/lca-database-footwear-apparel), CC BY-SA 4.0
+  > Data source: [The Carbonfact Open Source LCA Database for Footwear & Apparel](https://github.com/carbonfact/lca-database-footwear-apparel), CC BY-SA 4.0
 
   We strongly encourage displaying this attribution on the same page or screen where emission factors or impact scores derived from this database are shown, rather than burying it in a bibliography or appendix.
 
@@ -194,13 +194,13 @@ If you use this database in your work, please cite it via its DOI:
 
 Suggested citation:
 
-> Carrières, V., Vieira, G., & Vandepaer, L. (2026). *The Open Source LCA Database for Footwear & Apparel* (Version 1.1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21102755
+> *The Carbonfact Open Source LCA Database for Footwear & Apparel* (Version 1.1.0) [Data set]. Carrières, V., Vieira, G., & Vandepaer, L. (2026). Zenodo. https://doi.org/10.5281/zenodo.21102755
 
 Or in BibTeX:
 
 ```bibtex
 @dataset{carbonfact_lca_footwear_apparel_2026,
-  title     = {The Open Source LCA Database for Footwear \& Apparel},
+  title     = {The Carbonfact Open Source LCA Database for Footwear \& Apparel},
   author    = {Carrières, Vincent and Vieira, Gustavo and Vandepaer, Laurent},
   year      = {2026},
   version   = {1.1.0},
