@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/version-v1.1.0-blue.svg)](CHANGELOG.md)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21102755.svg)](https://doi.org/10.5281/zenodo.21102755)
 
-**The open-source reference database for textile lifecycle assessment.**
+**Carbonfact's open-source reference database for textile lifecycle assessment.**
 
 > **Early version.** This is an early release that will continue to evolve, so please check the [changelog](CHANGELOG.md) before re-using results across releases. Several datasets (notably dyeing and wet processing) rely on the [Apparel Impact Institute (Aii) Facility Benchmark](https://apparelimpact.org/) as a key industry data source. In early June, Aii published version 1.1 of its Energy and Carbon Benchmark, which updates the dry-process values; we will integrate it over the coming weeks, and it will affect a number of impact scores.
 >
