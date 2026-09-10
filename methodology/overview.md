@@ -1,5 +1,7 @@
 # Methodology Overview
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## General approach
 
 The Carbonfact Open Source LCA Database for Footwear & Apparel follows a **gate-to-gate** modelling approach for each textile manufacturing process. Datasets represent the environmental impact of transforming an input material (yarn, greige fabric, etc.) into an output product (yarn, fabric, dyed textile) at the factory gate.

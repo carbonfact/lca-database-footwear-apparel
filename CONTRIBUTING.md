@@ -22,7 +22,7 @@ Want to see a process or material added? [Open a dataset request](https://github
 
 ### You know a good non-LCA source but haven't modelled it?
 
-If you don't have an LCI but know of a solid technical reference — an industry benchmark, an academic paper, a supplier disclosure, a regulatory filing — for a process we don't yet cover, get in touch at **science@carbonfact.com**. If the source looks strong enough to build a transparent inventory on, we can talk about modelling it together and contributing the result back to this database.
+If you don't have an LCI but know of a solid technical reference — an industry benchmark, an academic paper, a supplier disclosure, a regulatory filing — for a process we don't yet cover, get in touch at **[science@carbonfact.com](mailto:science@carbonfact.com)**. If the source looks strong enough to build a transparent inventory on, we can talk about modelling it together and contributing the result back to this database.
 
 ## Proposing methodology improvements
 
@@ -49,7 +49,7 @@ If you're a supplier or manufacturer willing to share data for one of the proces
 - **Anonymity preserved**: your raw data is never published. What gets released back into this open database is an averaged dataset combining your data with at least a few other suppliers, so individual contributors cannot be re-identified.
 - **Typical data we need**: electricity and thermal energy consumption per kg/unit of output, chemical/dye/auxiliary inputs (with MSDS where possible), water intake and wastewater volumes, waste rates, and any measured emissions.
 
-To discuss data sharing, contact us at **science@carbonfact.com**. We'll walk you through the data template and what anonymisation looks like in practice.
+To discuss data sharing, contact us at **[science@carbonfact.com](mailto:science@carbonfact.com)**. We'll walk you through the data template and what anonymisation looks like in practice.
 
 ## Data quality standards
 

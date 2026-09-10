@@ -1,5 +1,7 @@
 # Use Phase (Laundry) Methodology
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 | Technology | PDF | Description |
 |---|---|---|
 | Laundry use phase | [PDF](Use_Phase_Laundry_Methodology.pdf) | Dry cleaning, hand washing, machine washing, tumble drying, ironing, detergents |

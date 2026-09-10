@@ -4,6 +4,8 @@
 
 **4 datasets** | Functional unit: 1 kg STR | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers natural rubber production, specifically the production of Standard Technical Rubber (STR), a natural rubber derivative used for outsole manufacturing in the footwear industry. The system boundary is cradle-to-gate, from rubber plantation (field coagulum production with economic allocation) through STR processing.

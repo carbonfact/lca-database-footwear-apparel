@@ -4,6 +4,8 @@
 
 **5 datasets** across 2 assembly types | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Assembly types
 
 | Assembly type | Datasets | Electricity scenarios | Functional Unit | Description |

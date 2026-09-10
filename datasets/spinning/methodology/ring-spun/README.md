@@ -1,5 +1,7 @@
 # Ring Spun Yarn Methodology
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Methodological specification of the ring-spun yarn inventory model
 
 | Property | Value |

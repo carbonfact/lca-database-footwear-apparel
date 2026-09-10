@@ -1,5 +1,7 @@
 # Textile Assembly Methodology
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 | Technology | PDF | Description |
 |---|---|---|
 | Textile Assembly | [PDF](Textile_Assembly_DB_Methodology.pdf) | Generic cutting, sewing, and make-up operations per product archetype (apparel, accessories, home textiles) |

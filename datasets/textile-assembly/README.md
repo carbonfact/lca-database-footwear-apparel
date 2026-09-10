@@ -4,6 +4,8 @@
 
 **15 datasets** | Functional unit: 1 kg assembled product | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers textile assembly: the conversion of finished fabric into a final product through cutting, sewing, and ancillary make-up operations. The system boundary includes direct electricity (cutting tables, sewing machines, pressing equipment), indirect energy (HVAC, compressed air, lighting), sewing thread, packaging, fabric losses (cutting waste), and capital goods (machine amortisation). Datasets are provided per product archetype (apparel, accessories, home textiles), each representing an average-case generic assembly inventory.

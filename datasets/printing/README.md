@@ -4,6 +4,8 @@
 
 **16 datasets** | Functional unit: 1 kg printed fabric/garment | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers textile printing: the localised application of colorant to form patterns or images on fabric or garments. The system boundary includes direct electricity (printing machines, dryers, steamers), thermal energy (drying, fixation, steaming), inks, auxiliary chemicals (thickeners, fixers, urea), water consumption, and wastewater treatment. Datasets span continuous technologies (rotary screen, digital inkjet), semi-continuous technologies (flat screen, transfer), and batch garment printing, across multiple ink chemistries (pigment, reactive, disperse, sublimation, discharge, burnout).

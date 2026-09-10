@@ -4,6 +4,8 @@
 
 **2 datasets** | Functional unit: 1 m² PU leather (1.5-2 mm, ≈ 1 kg) | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers synthetic PU leather manufacturing: a combined wet and dry production process for PU leather intended for footwear applications. The system boundary includes fabric preparation, impregnation, foam layer application, and top layer coating. Two variants are provided: DMF-free (water-borne) using water as solvent, and DMF-based (solvent-based) using N,N-Dimethylformamide as solvent.

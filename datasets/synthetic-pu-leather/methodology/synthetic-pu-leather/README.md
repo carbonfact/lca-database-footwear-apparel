@@ -9,6 +9,8 @@
 | Background database | ecoinvent 3.12 cutoff |
 | LCIA method | EF v3.1 (16 impact categories) |
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Documentation
 
 | Document | Description |

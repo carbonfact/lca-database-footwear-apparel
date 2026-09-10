@@ -4,6 +4,8 @@
 
 **38 datasets** | Functional unit: 1 kg dyed textile | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers fabric dyeing: the application of colour to textile substrates. The system boundary includes energy (electricity and thermal), auxiliary chemicals, dyestuffs, water consumption, and wastewater treatment. Datasets span four main dyeing technologies (exhaust, continuous pad steam, continuous thermosol) across multiple dye-fibre combinations (reactive on cellulosic, disperse on synthetic, acid on animal fibres, vat on cellulosic), plus dye production inventories.

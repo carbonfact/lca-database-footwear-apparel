@@ -6,6 +6,8 @@
 
 For the complete results across all datasets, see [impact-scores.csv](impact-scores.csv): all 16 EF 3.1 indicators plus DQR scores and the Input required (kg) loss factor. The tables below break the datasets down by spinning technology and fibre type.
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Process Categories
 
 | Technology | Datasets | Fibre Families | Description |

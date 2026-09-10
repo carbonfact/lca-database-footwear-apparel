@@ -4,6 +4,8 @@
 
 **2 datasets** | Functional unit: 1 kg fabric | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers non-woven fabric production: webs formed directly from fibers and bonded into fabric without spinning, weaving or knitting. The system boundary includes web formation and bonding. Datasets span wetlaid spunlace of cellulosic fibers and meltblown of polypropylene.

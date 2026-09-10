@@ -1,5 +1,7 @@
 # Filament Spinning Methodology
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Methodological specification of the filament yarn (melt/dry/wet) spinning inventory model
 
 | Property | Value |
