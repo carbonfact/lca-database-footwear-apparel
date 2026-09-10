@@ -10,7 +10,7 @@
 >
 > If you spot something worth improving or have data to contribute, see the [Contributing](#contributing) section below. We'd love to hear from you.
 >
-> **Questions? Email [science@carbonfact.com](mailto:science@carbonfact.com).** Our LCA team is available and happy to help — whether it's a question on a specific dataset, our methodology and data sources, or how to apply these factors in your own reporting. See [Questions & contact](#questions--contact).
+> **Questions? Email [science@carbonfact.com](mailto:science@carbonfact.com).** Our LCA team is available and happy to help — whether it's a question on a specific dataset, our methodology and data sources, or how to apply these factors in your own reporting. See [Questions and contact](#questions-and-contact).
 
 ## What is this?
 
@@ -149,7 +149,7 @@ This project follows [Semantic Versioning](https://semver.org/). Major versions 
 
 See [CHANGELOG.md](CHANGELOG.md) for a full history of changes.
 
-## Questions & contact
+## Questions and contact
 
 **Email [science@carbonfact.com](mailto:science@carbonfact.com).** This reaches the Carbonfact LCA team directly, and we're happy to answer questions from anyone using the database — you don't need to be a customer.
 
