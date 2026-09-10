@@ -4,6 +4,8 @@
 
 **15 datasets** | Functional units: 1 kg textile (wash/dry/clean), 1 min (ironing), 1 kg detergent | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers the laundry use phase of textile products. The system boundary includes electricity to heat water and run machines, tap water, detergent, and wastewater treatment. Two detergent formulations (liquid and powder) are also provided as separate foreground datasets so their contribution can be inspected and swapped.

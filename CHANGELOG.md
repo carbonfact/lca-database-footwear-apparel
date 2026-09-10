@@ -9,6 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Made the `science@carbonfact.com` contact route easy to find for external readers: a "Questions?" line in the README callout, a dedicated **Questions & contact** README section, and a one-line contact note near the top of every dataset and methodology README.
 - Sneaker Shoe Assembly, GLO electricity scenario: updated impact scores to use a more carbon-intensive global market mix (`market group for electricity, medium voltage, GLO` in ecoinvent 3.12). GHG total moves from 1.014 → 1.905 kg CO₂-eq/pair (+88%); switching VN→GLO now **increases** GWP by +14% (previously −39%). VN values unchanged.
 
 ### Removed

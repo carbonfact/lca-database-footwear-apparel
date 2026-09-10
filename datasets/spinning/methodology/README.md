@@ -1,5 +1,7 @@
 # Spinning Methodology
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 Methodological specifications for the spinning inventory models in the Carbonfact Open Source LCA Database for Footwear & Apparel. Each technology folder contains a downloadable PDF with the full methodology, plus markdown reference files.
 
 | Technology | PDF | Description |

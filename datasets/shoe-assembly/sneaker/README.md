@@ -4,6 +4,8 @@
 
 **2 datasets** | Functional unit: 1 pair of footwear | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers sneaker shoe assembly: the process-level operations involved in assembling footwear, excluding physical materials and components. The system boundary includes lamination, cutting, HF welding, screen printing, insole, nosew, stitching, stock fit, and final assembly. Two electricity scenarios are provided: Vietnam (VN, primary data origin) and Global average (GLO).

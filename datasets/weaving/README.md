@@ -4,6 +4,8 @@
 
 **17 datasets** | Functional unit: 1 kg fabric | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers weaving: the interlacing of warp and weft yarns to form fabric. The system boundary includes warping, sizing, drawing-in, and loom operation. Datasets span air-jet looms at 9 yarn finenesses (45–370 dtex) plus rapier, shuttle, water-jet, jacquard, silk and carpet.

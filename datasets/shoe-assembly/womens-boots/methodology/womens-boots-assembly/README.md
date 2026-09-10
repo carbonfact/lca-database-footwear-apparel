@@ -2,6 +2,8 @@
 
 Full methodology documentation is available in the PDF: **[womens-boots-assembly.pdf](womens-boots-assembly.pdf)**
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Summary
 
 Women's boots assembly (PU/Microfiber Upper + TPR/EVA/Rubber Outsole) covering three sequential operations:

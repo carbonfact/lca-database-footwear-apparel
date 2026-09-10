@@ -2,6 +2,8 @@
 
 Full methodology documentation is available in the PDF: **[natural-rubber-str.pdf](natural-rubber-str.pdf)**
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Summary
 
 Cradle-to-gate LCA of Standard Technical Rubber (STR) production, from rubber plantation through STR processing. The model has a 3-level nested activity structure:

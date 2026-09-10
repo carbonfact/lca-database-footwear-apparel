@@ -4,6 +4,8 @@
 
 **18 datasets** | Functional unit: 1 kg finished fabric | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers fabric finishing: mechanical, chemical, and thermal treatments applied after dyeing or printing to confer the final aesthetic, dimensional, and functional properties to a fabric. The system boundary includes direct electricity (machinery), thermal energy (steam, hot air for stenters and dryers), auxiliary chemicals (softeners, easy-care resins, flame retardants, water repellents), water consumption, and wastewater treatment. Datasets span pre-treatment operations (desizing, mercerization), mechanical finishing (calendering, sanforization, compacting, raising, emerizing), thermal finishing (heat setting, thermofixing, can dry), and chemical finishing (softening, easy-care, flame retardants, water repellents, coating).

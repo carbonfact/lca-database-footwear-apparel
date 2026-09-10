@@ -10,6 +10,8 @@ Process methodology documentation for all knitting technologies. Each technology
 | [Hosiery Knitting](hosiery-knitting/) | [📄 PDF](hosiery-knitting/hosiery-knitting.pdf) | Small-diameter circular knitting for socks and hosiery |
 | [3D Knitting](3d-knitting/) | [📄 PDF](3d-knitting/3d-knitting.pdf) | 3D / WHOLEGARMENT knitting for complete garments |
 
+**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Shared methodology
 
 The following cross-cutting methodology documents apply to all knitting datasets:

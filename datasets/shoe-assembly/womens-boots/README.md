@@ -4,6 +4,8 @@
 
 **3 datasets** | Functional unit: 1 kg assembled footwear | All 16 EF 3.1 impact indicators
 
+**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+
 ## Overview
 
 This process category covers women's boots assembly: the process-level operations involved in assembling women's boots with PU/microfiber upper and TPR/EVA/rubber outsole. The system boundary includes cutting (with oil paint printing), stitching (with glue application), and lasting (adhesive, primer, cleaner). Three electricity scenarios are provided: China (CN, primary data origin), Global average (GLO), and Italy (IT).
