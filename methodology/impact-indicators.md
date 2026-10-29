@@ -12,7 +12,7 @@ All datasets in the Carbonfact Open Source LCA Database for Footwear & Apparel r
 | ETF | Ecotoxicity, freshwater | CTUe/kg | USEtox 2.1 |
 | FRU | Fossil resource use | MJ/kg | CML 2002 |
 | FWE | Eutrophication, freshwater | kg P eq/kg | EUTREND |
-| GHG | Climate change | kg CO2 eq/kg | IPCC 2013 (GWP100) |
+| GHG | Climate change | kg CO2 eq/kg | IPCC 2021 (GWP100) |
 | HTC | Human toxicity, cancer | CTUh/kg | USEtox 2.1 |
 | HTN | Human toxicity, non-cancer | CTUh/kg | USEtox 2.1 |
 | IOR | Ionising radiation | kBq U-235 eq/kg | Human health effect model |
@@ -28,6 +28,6 @@ All datasets in the Carbonfact Open Source LCA Database for Footwear & Apparel r
 ## Notes
 
 - All impact scores are expressed per **1 kg** of output product (yarn, fabric, or dyed textile), matching the functional unit of each process.
-- The GHG indicator uses the IPCC 2013 Global Warming Potential with a 100-year time horizon (GWP100), excluding biogenic carbon.
+- The GHG indicator is the EF 3.1 climate change total, based on the IPCC 2021 Global Warming Potential with a 100-year time horizon (GWP100). It is the sum of the fossil, biogenic, and land use and land use change sub-indicators.
 - Characterization factors are sourced from the EF 3.1 method as implemented in ecoinvent 3.12.
 - The codes used in this database (e.g., GHG, ACD) are short-form aliases used by the Carbonfact Emission Factor System (EFS). They map one-to-one to the official EF 3.1 indicator names listed above.
