@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Per-dataset `ghg-contributions.csv` files (per-exchange contribution breakdowns) across all processes, withdrawn alongside the full inventories while sharing terms are finalised with our partners. Aggregated impact scores remain openly available.
 - Markdown versions of the shared `capital-goods` and `building-infrastructure` methodology documents (duplicated the canonical PDFs).
 
+### Fixed
+
+- Impact indicators methodology: the GHG indicator now cites IPCC 2021 (GWP100), the basis of the EF 3.1 climate change characterization factors. It previously said IPCC 2013, which did not match the process methodology documents.
+- Impact indicators methodology: the GHG indicator is now described as the EF 3.1 climate change total (fossil + biogenic + land use and land use change). It previously said "excluding biogenic carbon", which did not match the published values.
+
 ## [1.1.0] - 2026-04-15
 
 ### Added
