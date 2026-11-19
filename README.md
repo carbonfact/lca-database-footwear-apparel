@@ -12,6 +12,9 @@
 >
 > **Questions? Email [science@carbonfact.com](mailto:science@carbonfact.com).** Our LCA team is available and happy to help — whether it's a question on a specific dataset, our methodology and data sources, or how to apply these factors in your own reporting. See [Questions and contact](#questions-and-contact).
 
+> [!WARNING]
+> **Spinning, Knitting and Textile Assembly are under maintenance.** We have identified errors in these datasets and have temporarily taken their impact scores and methodology documentation offline while we correct them. They will be back online soon. Until then, please do not use values for these processes from earlier releases. All other processes remain available.
+
 ## What is this?
 
 The Carbonfact Open Source LCA Database for Footwear & Apparel is a free, open-source collection of lifecycle assessment (LCA) datasets for core textile manufacturing processes, with impact scores calculated using EF 3.1 characterization factors across 16 PEF (Product Environmental Footprint) impact indicators.
@@ -26,13 +29,13 @@ Our ambition is for these datasets to become a **shared industry reference**: op
 
 ## What's included
 
-The database is organised by **process**. Click any process below to open its folder, where you'll find the `impact-scores.csv` results file (emission factors + data quality scores) and the methodology documentation for that family.
+The database is organised by **process**. Click any process below to open its folder, where you'll find the `impact-scores.csv` results file (emission factors + data quality scores) and the methodology documentation for that family. Processes marked 🚧 are temporarily offline for maintenance: their folders hold only a notice for now, and the total counts the datasets currently available.
 
 | Process | Datasets | Technologies | Functional Unit |
 |---------|----------|-------------|-----------------|
-| [Spinning](datasets/spinning/) | 159 | Ring spun, Melt spinning, Open end rotor | 1 kg yarn |
-| [Knitting](datasets/knitting/) | 13 | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
-| [Weaving](datasets/weaving/) | 19 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
+| [Spinning](datasets/spinning/) | 🚧 Under maintenance | Ring spun, Melt spinning, Open end rotor | 1 kg yarn |
+| [Knitting](datasets/knitting/) | 🚧 Under maintenance | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
+| [Weaving](datasets/weaving/) | 17 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
 | [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Women's Boots (CN, GLO, IT) | 1 pair / 1 kg |
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
@@ -40,14 +43,14 @@ The database is organised by **process**. Click any process below to open its fo
 | [Use Phase](datasets/use-phase/) | 15 | Dry cleaning, Hand washing, Machine washing (30/40/60°), Tumble drying, Ironing, Detergents | 1 kg textile / 1 min / 1 kg detergent |
 | [Printing](datasets/printing/) | 16 | Rotary screen, Digital inkjet, Flat screen, Transfer, Batch garment | 1 kg printed fabric/garment |
 | [Finishing](datasets/finishing/) | 18 | Pre-treatment, Mechanical, Thermal, Chemical | 1 kg finished fabric |
-| [Textile Assembly](datasets/textile-assembly/) | 15 | Generic assembly per product archetype (apparel, accessories, home textiles) | 1 kg assembled product |
-| **Total** | **304** | | |
+| [Textile Assembly](datasets/textile-assembly/) | 🚧 Under maintenance | Generic assembly per product archetype (apparel, accessories, home textiles) | 1 kg assembled product |
+| **Total** | **115** | | |
 
 ### Getting the emission factors and impact scores
 
 No special tools needed. You can read the numbers straight from your browser:
 
-1. **Pick a process** from the table above and click it to open its folder.
+1. **Pick a process** from the table above (any not marked 🚧 under maintenance) and click it to open its folder.
 2. **Open `impact-scores.csv`**: GitHub previews it right in your browser: emission factors and data quality scores, no download required.
 3. **Download** with the *Download raw file* button to open it in Excel or Google Sheets and work with the numbers.
 
@@ -117,13 +120,13 @@ All datasets report results for the 16 EF 3.1 impact indicators:
 
 For a general introduction to the LCA approach, see the [methodology overview](methodology/overview.md). Each process directory contains detailed methodology documentation covering system boundaries, data sources, allocation rules, and modeling choices:
 
-- [Spinning methodology](datasets/spinning/methodology/)
-- [Knitting methodology](datasets/knitting/methodology/)
+- [Spinning methodology](datasets/spinning/) (🚧 under maintenance)
+- [Knitting methodology](datasets/knitting/) (🚧 under maintenance)
 - [Weaving methodology](datasets/weaving/methodology/)
 - [Dyeing methodology](datasets/dyeing/methodology/)
 - [Printing methodology](datasets/printing/methodology/)
 - [Finishing methodology](datasets/finishing/methodology/)
-- [Textile Assembly methodology](datasets/textile-assembly/methodology/)
+- [Textile Assembly methodology](datasets/textile-assembly/) (🚧 under maintenance)
 - [Shoe Assembly methodology](datasets/shoe-assembly/) (Sneaker + Women's Boots)
 - [Synthetic PU Leather methodology](datasets/synthetic-pu-leather/methodology/)
 - [Natural Rubber methodology](datasets/natural-rubber/methodology/)
@@ -247,7 +250,7 @@ GitHub's **"Cite this repository"** button (top right of the repo page) also gen
 ```python
 import pandas as pd
 
-knitting = pd.read_csv("datasets/knitting/impact-scores.csv")
-print(knitting[["Activity", "GHG"]].to_string(index=False))
+weaving = pd.read_csv("datasets/weaving/impact-scores.csv")
+print(weaving[["Activity", "GHG"]].to_string(index=False))
 ```
 

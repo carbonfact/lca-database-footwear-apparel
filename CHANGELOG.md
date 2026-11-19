@@ -14,12 +14,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+- **Spinning, Knitting and Textile Assembly temporarily taken offline for maintenance.** We identified errors in these datasets, so their impact scores (`impact-scores.csv`), the per-technology spinning pages, and their methodology documentation are withdrawn while we correct them. Each process folder now carries a maintenance notice. The corrected datasets will be back online in a future release; until then, do not use values for these processes from earlier releases.
 - Brightway/Activity Browser inventory files (`inventory-brightway.xlsx`) across all processes, withdrawn while the terms for sharing the full inventories openly are finalised with our partners. Impact scores remain openly available, and the key foreground parameters remain described in each process's methodology.
 - Per-dataset `ghg-contributions.csv` files (per-exchange contribution breakdowns) across all processes, withdrawn alongside the full inventories while sharing terms are finalised with our partners. Aggregated impact scores remain openly available.
 - Markdown versions of the shared `capital-goods` and `building-infrastructure` methodology documents (duplicated the canonical PDFs).
 
 ### Fixed
 
+- README process table: the Weaving dataset count now reads 17, matching its `impact-scores.csv`. It previously said 19.
 - Impact indicators methodology: the GHG indicator now cites IPCC 2021 (GWP100), the basis of the EF 3.1 climate change characterization factors. It previously said IPCC 2013, which did not match the process methodology documents.
 - Impact indicators methodology: the GHG indicator is now described as the EF 3.1 climate change total (fossil + biogenic + land use and land use change). It previously said "excluding biogenic carbon", which did not match the published values.
 

@@ -8,8 +8,8 @@ labels: bug, data-quality
 ## Affected dataset
 
 - **Process:** (e.g., Knitting, Spinning, Weaving, Dyeing)
-- **File:** (e.g., `datasets/knitting/impact-scores.csv`)
-- **Dataset/Activity name:** (e.g., "Flat Knitting, Average")
+- **File:** (e.g., `datasets/dyeing/impact-scores.csv`)
+- **Dataset/Activity name:** (e.g., "Fabric dyeing, Exhaust, Airflow jet, Acid, Animal Fibers, Medium Shade")
 
 ## What is incorrect?
 
