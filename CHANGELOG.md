@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+- **Spinning, Knitting and Textile Assembly temporarily taken offline for maintenance.** We identified errors in these datasets, so their impact scores (`impact-scores.csv`), the per-technology spinning pages, and their methodology documentation are withdrawn while we correct them. Each process folder now carries a maintenance notice. The corrected datasets will be back online in a future release; until then, do not use values for these processes from earlier releases.
 - Brightway/Activity Browser inventory files (`inventory-brightway.xlsx`) across all processes, withdrawn while the terms for sharing the full inventories openly are finalised with our partners. Impact scores remain openly available, and the key foreground parameters remain described in each process's methodology.
 - Per-dataset `ghg-contributions.csv` files (per-exchange contribution breakdowns) across all processes, withdrawn alongside the full inventories while sharing terms are finalised with our partners. Aggregated impact scores remain openly available.
 - Markdown versions of the shared `capital-goods` and `building-infrastructure` methodology documents (duplicated the canonical PDFs).

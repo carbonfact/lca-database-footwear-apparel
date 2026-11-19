@@ -1,39 +1,9 @@
 # Spinning
 
-> Lifecycle assessment datasets for yarn and filament production across ring spinning, open-end rotor, and filament spinning technologies for all major fibre types.
+> 🚧 **Under maintenance.** The spinning datasets are temporarily offline.
 
-**159 datasets** | Functional unit: 1 kg yarn | All 16 EF 3.1 impact indicators
+We have identified errors in the spinning datasets and have taken their impact scores and methodology documentation offline while we correct them. They will be back online soon, and the changes will be listed in the [changelog](../../CHANGELOG.md).
 
-For the complete results across all datasets, see [impact-scores.csv](impact-scores.csv): all 16 EF 3.1 indicators plus DQR scores and the Input required (kg) loss factor. The tables below break the datasets down by spinning technology and fibre type.
+Until then, please do not use spinning values from earlier releases of this database.
 
-**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
-
-## Process Categories
-
-| Technology | Datasets | Fibre Families | Description |
-|------------|----------|---------------|-------------|
-| [Ring Spinning](ring-spinning.md) | 90 | 10 | Dominant staple yarn method. High-quality yarns for knitting and weaving. Higher energy per kg but finer, stronger yarns. |
-| [Open-End Rotor](open-end-rotor.md) | 54 | 6 | Faster, more energy-efficient alternative. Bulkier yarns for casual knit and woven fabrics. |
-| [Filament Spinning](filament-spinning.md) | 15 | 8 | Melt, wet, and dry spinning of continuous filaments. Lower energy intensity per kg. |
-
-## Fibre Types
-
-| Fibre Family | Ring Spinning | Open-End Rotor | Filament |
-|-------------|:---:|:---:|:---:|
-| Cotton (carded) | | ✓ | |
-| Cotton Combed -- Knitting | ✓ | | |
-| Cotton Combed -- Weaving | ✓ | | |
-| Polyester (PET, PBT, PTT, PLA) | ✓ | ✓ | ✓ |
-| Polyamide (Nylon 6, 6.6, PA 11, 12) | ✓ | ✓ | ✓ |
-| Acrylic / Modacrylic / PAN | ✓ | ✓ | ✓ |
-| MMCF (Rayon, Viscose, Lyocell) | ✓ | ✓ | ✓ |
-| Elastane (Spandex/Lycra) | ✓ | | ✓ |
-| Wool -- Woollen | ✓ | | |
-| Wool -- Worsted | ✓ | | |
-| Spun Silk | ✓ | ✓ | |
-| Acetate / Triacetate | | | ✓ |
-| Microfibers | | | ✓ |
-
-## Methodology
-
-Detailed methodology documentation: [methodology/](methodology/)
+**Questions?** Email [science@carbonfact.com](mailto:science@carbonfact.com). Our LCA team is happy to help in the meantime.

@@ -39,8 +39,8 @@ Life Cycle Impact Assessment (LCIA) is performed using the **EF 3.1** characteri
 
 Many process parameters (electricity consumption, lubricant use, yarn waste) are parameterised by **yarn fineness (dtex)** and **fibre type**. This enables the database to cover a wide range of textile products from a consistent modelling framework. The parameterisation approach is documented in each process methodology:
 
-- [Spinning methodology](../datasets/spinning/methodology/)
-- [Knitting methodology](../datasets/knitting/methodology/)
+- [Spinning methodology](../datasets/spinning/) (🚧 under maintenance)
+- [Knitting methodology](../datasets/knitting/) (🚧 under maintenance)
 - [Weaving methodology](../datasets/weaving/methodology/)
 - [Dyeing methodology](../datasets/dyeing/methodology/)
 
@@ -60,8 +60,8 @@ Many process parameters (electricity consumption, lubricant use, yarn waste) are
 
 | Process | Documentation |
 |---------|---------------|
-| Spinning | [Ring Spun](../datasets/spinning/methodology/ring-spun/) · [Filament](../datasets/spinning/methodology/filament/) · [Open End Rotor](../datasets/spinning/methodology/open-end-rotor/) |
-| Knitting | [Flat](../datasets/knitting/methodology/flat-knitting/) · [Circular](../datasets/knitting/methodology/circular-knitting/) · [Seamless](../datasets/knitting/methodology/seamless-knitting/) · [Hosiery](../datasets/knitting/methodology/hosiery-knitting/) · [3D](../datasets/knitting/methodology/3d-knitting/) |
+| Spinning | 🚧 [Under maintenance](../datasets/spinning/), back online soon |
+| Knitting | 🚧 [Under maintenance](../datasets/knitting/), back online soon |
 | Weaving | [Weaving](../datasets/weaving/methodology/) |
 | Dyeing | [Dyeing](../datasets/dyeing/methodology/) |
 
