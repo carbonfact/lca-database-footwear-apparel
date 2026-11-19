@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- README process table: the Weaving dataset count now reads 17, matching its `impact-scores.csv`. It previously said 19.
 - Impact indicators methodology: the GHG indicator now cites IPCC 2021 (GWP100), the basis of the EF 3.1 climate change characterization factors. It previously said IPCC 2013, which did not match the process methodology documents.
 - Impact indicators methodology: the GHG indicator is now described as the EF 3.1 climate change total (fossil + biogenic + land use and land use change). It previously said "excluding biogenic carbon", which did not match the published values.
 

@@ -29,13 +29,13 @@ Our ambition is for these datasets to become a **shared industry reference**: op
 
 ## What's included
 
-The database is organised by **process**. Click any process below to open its folder, where you'll find the `impact-scores.csv` results file (emission factors + data quality scores) and the methodology documentation for that family.
+The database is organised by **process**. Click any process below to open its folder, where you'll find the `impact-scores.csv` results file (emission factors + data quality scores) and the methodology documentation for that family. Processes marked 🚧 are temporarily offline for maintenance: their folders hold only a notice for now, and the total counts the datasets currently available.
 
 | Process | Datasets | Technologies | Functional Unit |
 |---------|----------|-------------|-----------------|
 | [Spinning](datasets/spinning/) | 🚧 Under maintenance | Ring spun, Melt spinning, Open end rotor | 1 kg yarn |
 | [Knitting](datasets/knitting/) | 🚧 Under maintenance | Flat, Circular, Seamless, Hosiery, 3D | 1 kg fabric |
-| [Weaving](datasets/weaving/) | 19 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
+| [Weaving](datasets/weaving/) | 17 | Air jet, Rapier, Water jet, Projectile | 1 kg fabric |
 | [Dyeing](datasets/dyeing/) | 38 | Exhaust, Continuous, Pad steam, Thermosol | 1 kg dyed textile |
 | [Shoe Assembly](datasets/shoe-assembly/) | 5 | Sneaker (VN, GLO), Women's Boots (CN, GLO, IT) | 1 pair / 1 kg |
 | [Synthetic PU Leather](datasets/synthetic-pu-leather/) | 2 | DMF-free (water-borne), DMF-based (solvent-based) | 1 m² PU leather |
@@ -44,15 +44,13 @@ The database is organised by **process**. Click any process below to open its fo
 | [Printing](datasets/printing/) | 16 | Rotary screen, Digital inkjet, Flat screen, Transfer, Batch garment | 1 kg printed fabric/garment |
 | [Finishing](datasets/finishing/) | 18 | Pre-treatment, Mechanical, Thermal, Chemical | 1 kg finished fabric |
 | [Textile Assembly](datasets/textile-assembly/) | 🚧 Under maintenance | Generic assembly per product archetype (apparel, accessories, home textiles) | 1 kg assembled product |
-| **Total** | **117** | | |
-
-> 🚧 **Spinning, Knitting and Textile Assembly** are temporarily offline for maintenance and will be back online soon. The total above counts the datasets currently available.
+| **Total** | **115** | | |
 
 ### Getting the emission factors and impact scores
 
 No special tools needed. You can read the numbers straight from your browser:
 
-1. **Pick a process** from the table above and click it to open its folder.
+1. **Pick a process** from the table above (any not marked 🚧 under maintenance) and click it to open its folder.
 2. **Open `impact-scores.csv`**: GitHub previews it right in your browser: emission factors and data quality scores, no download required.
 3. **Download** with the *Download raw file* button to open it in Excel or Google Sheets and work with the numbers.
 
