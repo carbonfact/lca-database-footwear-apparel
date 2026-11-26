@@ -4,7 +4,7 @@
 
 **2 datasets** | Functional unit: 1 kg fabric | All 16 EF 3.1 impact indicators
 
-**Questions about this dataset?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+**Questions about this dataset?** Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # Methodology Overview
 
-**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+**Questions about this methodology?** Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
 
 ## General approach
 

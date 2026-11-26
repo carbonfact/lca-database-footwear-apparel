@@ -2,7 +2,7 @@
 
 This document describes the Data Quality Rating (DQR) methodology applied to all process datasets in the Carbonfact Open Source LCA Database for Footwear & Apparel. The approach follows the **Product Environmental Footprint (PEF)** guidance for data quality assessment.
 
-**Questions about this methodology?** Email [science@carbonfact.com](mailto:science@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
+**Questions about this methodology?** Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com) — our LCA team is happy to answer questions on methodology, data sources, and how to apply these factors.
 
 ## Method
 
