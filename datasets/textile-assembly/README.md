@@ -6,4 +6,4 @@ We have identified errors in the textile assembly datasets and have taken their 
 
 Until then, please do not use textile assembly values from earlier releases of this database.
 
-**Questions?** Email [science@carbonfact.com](mailto:science@carbonfact.com). Our LCA team is happy to help in the meantime.
+**Questions?** Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com). Our LCA team is happy to help in the meantime.

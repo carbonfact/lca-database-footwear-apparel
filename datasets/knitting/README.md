@@ -6,4 +6,4 @@ We have identified errors in the knitting datasets and have taken their impact s
 
 Until then, please do not use knitting values from earlier releases of this database.
 
-**Questions?** Email [science@carbonfact.com](mailto:science@carbonfact.com). Our LCA team is happy to help in the meantime.
+**Questions?** Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com). Our LCA team is happy to help in the meantime.

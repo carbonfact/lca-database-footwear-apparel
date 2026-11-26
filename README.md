@@ -10,7 +10,7 @@
 >
 > If you spot something worth improving or have data to contribute, see the [Contributing](#contributing) section below. We'd love to hear from you.
 >
-> **Questions? Email [science@carbonfact.com](mailto:science@carbonfact.com).** Our LCA team is available and happy to help — whether it's a question on a specific dataset, our methodology and data sources, or how to apply these factors in your own reporting. See [Questions and contact](#questions-and-contact).
+> **Questions? Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com).** Our LCA team is available and happy to help — whether it's a question on a specific dataset, our methodology and data sources, or how to apply these factors in your own reporting. See [Questions and contact](#questions-and-contact).
 
 > [!WARNING]
 > **Spinning, Knitting and Textile Assembly are under maintenance.** We have identified errors in these datasets and have temporarily taken their impact scores and methodology documentation offline while we correct them. They will be back online soon. Until then, please do not use values for these processes from earlier releases. All other processes remain available.
@@ -154,7 +154,7 @@ See [CHANGELOG.md](CHANGELOG.md) for a full history of changes.
 
 ## Questions and contact
 
-**Email [science@carbonfact.com](mailto:science@carbonfact.com).** This reaches the Carbonfact LCA team directly, and we're happy to answer questions from anyone using the database — you don't need to be a customer.
+**Email [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com).** This reaches the Carbonfact LCA team directly, and we're happy to answer questions from anyone using the database — you don't need to be a customer.
 
 Things we're glad to help with:
 
@@ -175,7 +175,7 @@ We welcome contributions from the LCA and textile communities. See [CONTRIBUTING
 - **Point us at a good non-LCA source**: if you don't have an LCI but know of a solid technical reference (industry benchmark, academic paper, supplier disclosure) for a process we don't yet cover, get in touch and we can talk about modelling it together.
 - **Suppliers: share primary data.** Most of the current datasets are built on secondary data. Our vision is to progressively collect primary data from manufacturers to improve quality. If you're a supplier willing to share process data for one of the existing processes, we'll run an LCA of your process in return. Your data can remain anonymous and be averaged with other suppliers' data so the published dataset stays fully anonymised.
 
-For supplier data-sharing or any other partnership questions, contact us at [science@carbonfact.com](mailto:science@carbonfact.com).
+For supplier data-sharing or any other partnership questions, contact us at [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com).
 
 ## License
 
@@ -213,11 +213,11 @@ If you build the database into a software product, platform, or service that dis
 - **Indicate modifications** if you have adapted or recalculated the values, so your version is not mistaken for ours.
 - **Share modifications alike**: any adapted or recalculated version of the data you distribute — including serving it to your customers through your product — must be released under CC BY-SA 4.0 (or a compatible license), per the [ShareAlike](#what-you-must-do) condition. Improvements stay open for the community.
 
-We'd also love to hear which brands and organizations use the database to evaluate their impact, and at what scale — even just a total footprint measured with it (e.g. tonnes of CO₂e assessed per year). Knowing who relies on the data is what justifies the ongoing work and maintenance that keep it accurate and free. Reach us at [science@carbonfact.com](mailto:science@carbonfact.com).
+We'd also love to hear which brands and organizations use the database to evaluate their impact, and at what scale — even just a total footprint measured with it (e.g. tonnes of CO₂e assessed per year). Knowing who relies on the data is what justifies the ongoing work and maintenance that keep it accurate and free. Reach us at [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com).
 
 ### Commercial licensing
 
-For companies that need different attribution terms or cannot comply with the ShareAlike requirement, a separate commercial license is available. Contact us at [science@carbonfact.com](mailto:science@carbonfact.com).
+For companies that need different attribution terms or cannot comply with the ShareAlike requirement, a separate commercial license is available. Contact us at [lca-database@carbonfact.com](mailto:lca-database@carbonfact.com).
 
 ## Citation
 
